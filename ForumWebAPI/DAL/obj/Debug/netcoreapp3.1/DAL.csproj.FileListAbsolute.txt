@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

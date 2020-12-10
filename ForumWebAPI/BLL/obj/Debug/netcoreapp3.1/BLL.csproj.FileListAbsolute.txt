@@ -1,0 +1,13 @@
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

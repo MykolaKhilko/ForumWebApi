@@ -1,5 +1,0 @@
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_DAL\bin\Debug\netcoreapp3.1\Forum_DAL.deps.json
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_DAL\bin\Debug\netcoreapp3.1\Forum_DAL.dll
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_DAL\obj\Debug\netcoreapp3.1\Forum_DAL.csprojAssemblyReference.cache
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_DAL\obj\Debug\netcoreapp3.1\Forum_DAL.AssemblyInfoInputs.cache
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_DAL\obj\Debug\netcoreapp3.1\Forum_DAL.AssemblyInfo.cs

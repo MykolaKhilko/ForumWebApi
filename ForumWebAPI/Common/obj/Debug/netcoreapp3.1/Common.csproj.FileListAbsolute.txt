@@ -1,0 +1,8 @@
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Nick\Desktop\EPAM\Final\Final_2\ForumWebAPI\Common\obj\Debug\netcoreapp3.1\Common.pdb

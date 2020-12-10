@@ -1,4 +1,0 @@
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_BLL\bin\Debug\netcoreapp3.1\Forum_DAL.dll
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_BLL\obj\Debug\netcoreapp3.1\Forum_BLL.csprojAssemblyReference.cache
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_BLL\obj\Debug\netcoreapp3.1\Forum_BLL.AssemblyInfoInputs.cache
-C:\Users\Nick\Desktop\EPAM\Final\Final_1\Forum\Forum_BLL\obj\Debug\netcoreapp3.1\Forum_BLL.AssemblyInfo.cs
